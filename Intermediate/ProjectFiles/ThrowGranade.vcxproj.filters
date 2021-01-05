@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ThrowGranade.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FE1EE886-CD9C-40F5-87DE-B8B84ED68E6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ThrowGranade.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThrowGranadeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{140010E3-2CA6-4F79-8BDA-1F3B56CC65C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ThrowGranade">
+      <UniqueIdentifier>{4FF1CDC9-8EB8-4578-ABCD-81EC4FB0069B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ThrowGranade\Grenade.cpp">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThrowGranade\Grenade.h">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ThrowGranade\ThrowGranade.Build.cs">
+      <Filter>Source\ThrowGranade</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ThrowGranade\ThrowGranade.cpp">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThrowGranade\ThrowGranade.h">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThrowGranade\ThrowGranadeCharacter.cpp">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThrowGranade\ThrowGranadeCharacter.h">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ThrowGranade\ThrowGranadeGameMode.cpp">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ThrowGranade\ThrowGranadeGameMode.h">
+      <Filter>Source\ThrowGranade</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

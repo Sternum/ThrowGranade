@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ThrowGranade",
+			"Path": "C:\\Users\\kamil\\Dokumenty\\Unreal Projects\\ThrowGranade\\Source\\ThrowGranade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ThrowGranadeEditor",
+			"Path": "C:\\Users\\kamil\\Dokumenty\\Unreal Projects\\ThrowGranade\\Source\\ThrowGranadeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

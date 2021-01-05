@@ -1,0 +1,2 @@
+C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\Definitions.ThrowGranade.h
+C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Source\ThrowGranade\ThrowGranade.h

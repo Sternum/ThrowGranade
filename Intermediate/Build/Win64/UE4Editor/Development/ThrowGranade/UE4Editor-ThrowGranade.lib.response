@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ThrowGranade.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\ThrowGranadeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\Grenade.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranade.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranadeCharacter.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranadeGameMode.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\Grenade.gen.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranade.init.gen.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranadeCharacter.gen.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\ThrowGranadeGameMode.gen.cpp.obj"
+"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\Default.rc2.res"
+/OUT:"C:\Users\kamil\Dokumenty\Unreal Projects\ThrowGranade\Intermediate\Build\Win64\UE4Editor\Development\ThrowGranade\UE4Editor-ThrowGranade.lib"
+/INCLUDE:IMPLEMENT_MODULE_ThrowGranade
